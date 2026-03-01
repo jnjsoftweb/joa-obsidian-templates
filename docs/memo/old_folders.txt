@@ -1,0 +1,75 @@
+C:\Notes\Obsidian\JnJ
+
+00_Map_Of_Contents
+10_Fleeting_Notes
+20_Literature_Notes
+30_Permanent_Notes
+40_Prolific_Lounge
+50_Projects
+60_Areas
+70_Resources
+AI
+Drafts
+Excalidraw
+Settings
+
+
+-------------------------
+
+C:\Notes\Obsidian\Home 디렉터리
+
+00-map-of-contents
+10-projects
+20-areas
+30-resources
+40-archives
+90-meta
+AI
+_backups
+
+---------------------------
+
+C:\Notes\Obsidian\ilmac 디렉터리
+
+31_PROJECT
+32. AREA
+33. RESOURCE
+91. attachments
+AI
+Clippings
+WebCaptures
+
+-----------------------------
+
+C:\Notes\Obsidian\Kmc 디렉터리
+
+00-dashboard
+01-inbox
+02-daily
+10-projects
+20-areas
+30-resources
+40-archives
+50-knowledge
+90-meta
+forms
+
+------------------------
+
+C:\Notes\Obsidian\JnJsoft 디렉터리
+
+00. MapOfContents
+01. Playground
+03. Drawings
+05. DailyNotes
+10. Clippings
+11. FleetingNotes
+12. LiteratureNotes
+13. PermanentNotes
+31. PROJECT
+32. AREA
+33. RESOURCE
+34. ARCHIVE
+91. attachments
+93. templates
+99. meta
